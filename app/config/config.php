@@ -1,0 +1,11 @@
+<?php 
+
+
+// cara membuat constant()
+define('BASEURL', 'http://localhost/krymvc/public');
+
+// Menyimpan database
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', 'db_karyawan');
